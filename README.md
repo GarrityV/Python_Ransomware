@@ -3,7 +3,7 @@ Ransomware made in Python
 
 Use at your own risk.
 
-Latest working: PW_RW.py or PW_RW_working12_batch_startup.py
+Latest working: PY_RW.py or PY_RW_latest.py
 
 Check aThingsToDo.txt to see progress
 
