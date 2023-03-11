@@ -1,6 +1,7 @@
 import os
 import hashlib
 from Crypto.Cipher import AES
+import getpass
 
 # Define block size for encryption
 BLOCK_SIZE = 16
@@ -67,7 +68,7 @@ def decrypt_files(directory, key):
                     print(f'Failed to decrypt file {file_path}. Wrong key?')
 
 # Directory to encrypt
-dir_path = 'C:\\Users\\garrity\\Desktop\\EncryptThis'
+dir_path = f'C:\\Users\\{getpass.getuser()}\\Desktop\\EncryptThis'
 
 # Key
 key = b'my_secret_key_11'
