@@ -1,6 +1,8 @@
 # PY_RW
 Ransomware made in Python
 
+Use at your own risk.
+
 Latest working: PW_RW.py or PW_RW_working12_batch_startup.py
 
 Check aThingsToDo.txt to see progress
