@@ -1,0 +1,11 @@
+PYTHON RANSOMWARE
+--------------------------
+THINGS TO DO:
+[X] Encrypt / Decrypt any file
+[X] Cleanup; Leave no trace on program close
+[X] Restart program if user CTRL + C
+[ ] Restart program if user closes window
+[X] Switch OpenSSL to pyAesCrypt
+[ ] Open STEPS_TO_DECRYPT.txt if user closes it
+[ ] Need to stay on users pc if they try to get rid of script
+[X] Create batch script for program startup registry
