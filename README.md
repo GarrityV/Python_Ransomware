@@ -1,6 +1,8 @@
 # PY_RW
 Ransomware made in Python
 
+Latest working: PW_RW.py or PW_RW_working12_batch_startup.py
+
 Check aThingsToDo.txt to see progress
 
 Line 19 to replace key
