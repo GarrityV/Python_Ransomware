@@ -5,7 +5,7 @@ Use at your own risk.
 
 Latest working: PY_RW.py or PY_RW_latest.py
 
-Check aThingsToDo.txt to see progress
+Check aThingsToDo.txt to see progress and features implemented
 
 Line 19 to replace key
 
