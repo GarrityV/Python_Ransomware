@@ -3,6 +3,9 @@ Ransomware made in Python
 
 Use at your own risk.
 
+Installing requirements:
+`pip install -r requirements.txt`
+
 Latest working: PY_RW.py or PY_RW_latest.py
 
 Check aThingsToDo.txt to see progress and features implemented
